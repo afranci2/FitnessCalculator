@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <div className="navbar w-full bg-[#242424] drop-shadow-lg">
     <div className=" h-auto flex mx-auto w-5/6 space-x-auto p-4 min-h-1/2 gap-10">
-        <div className="my-auto mx-auto ">
+        <div className="my-auto mx-auto">
             <p>Hey</p>
         </div>
         <div className=" my-auto mx-auto ">
